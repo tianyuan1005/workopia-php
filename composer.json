@@ -1,0 +1,16 @@
+{
+  "name": "tianyuan1005/workopia-php",
+  "description": "Job Listing Application",
+  "authors": [
+    {
+      "name": "Yuan Tian",
+      "email": "ty_inf@outlook.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
